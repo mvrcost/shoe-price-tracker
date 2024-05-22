@@ -11,7 +11,13 @@ class CentauroSpider(scrapy.Spider):
         for product in products:
             yield {
                 'name': product.css('p.Typographystyled__Paragraph-sc-bdxvrr-1.knvuZc.ProductCard-styled__Title-sc-bbe8eefb-3.fnPvPK::text').get().split("-")[0],
+                'brand': product.css('p.Typographystyled__Paragraph-sc-bdxvrr-1.knvuZc.ProductCard-styled__Title-sc-bbe8eefb-3.fnPvPK::text').get().split(" ")[1],
+
+                'last_price': product.css('del.Typographystyled__Offer-sc-bdxvrr-4.cAyLkZ.Price-styled__OldPriceOffer-sc-f65c9c0d-2.hLWMiV::text').get(),
                 'current_price': product.css('p.Typographystyled__Paragraph-sc-bdxvrr-1.eFDcLB.Price-styled__CurrentPrice-sc-f65c9c0d-4.jNAhVm::text').get()
                 
                 }
+            
+
+            next_page = response.css("")
         pass
