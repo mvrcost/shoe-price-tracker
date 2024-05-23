@@ -10,7 +10,7 @@
 {"name": "Tênis Nike Zoom Bella 6 ", "brand": "Nike", "last_price": null, "current_price": "R$ 599,99"}
 {"name": "Tênis Nike MC Trainer 2 ", "brand": "Nike", "last_price": "R$ 599,99", "current_price": "R$ 299,99"}
 {"name": "Tênis Puma Flyer Runner BDP ", "brand": "Puma", "last_price": null, "current_price": "R$ 349,90"}
-{"name": "Tênis Mizuno Cool Ride ", "brand": "Mizuno", "last_price": "R$ 314,57", "current_price": "R$ 304,57"}
+{"name": "Tênis Mizuno Cool Ride ", "brand": "Mizuno", "last_price": "R$ 360,91", "current_price": "R$ 269,00"}
 {"name": "Tênis Olympikus Challenger 4 ", "brand": "Olympikus", "last_price": "R$ 299,99", "current_price": "R$ 159,99"}
 {"name": "Tênis Nike Metcon 9 Flyease ", "brand": "Nike", "last_price": "R$ 1.199,99", "current_price": "R$ 949,99"}
 {"name": "Tênis adidas Lite Racer 3.0 ", "brand": "adidas", "last_price": "R$ 299,99", "current_price": "R$ 208,99"}
@@ -19,7 +19,9 @@
 {"name": "Tênis Olympikus Challenger 4 ", "brand": "Olympikus", "last_price": "R$ 299,99", "current_price": "R$ 159,99"}
 {"name": "Tênis Olympikus Vertical ", "brand": "Olympikus", "last_price": "R$ 349,99", "current_price": "R$ 179,99"}
 {"name": "Tênis Under Armour Charged Skyline 3 SE ", "brand": "Under", "last_price": "R$ 399,99", "current_price": "R$ 199,99"}
-{"name": "Tênis ASICS Gel", "brand": "ASICS", "last_price": "R$ 479,90", "current_price": "R$ 429,90"}
+{"name": "Tênis ASICS Gel", "brand": "ASICS", "last_price": "R$ 429,99", "current_price": "R$ 289,74"}
+{"name": "Tênis adidas Lite Racer 3 0 ", "brand": "adidas", "last_price": "R$ 299,99", "current_price": "R$ 204,24"}
+{"name": "Tênis Puma Flyer Runner BDP ", "brand": "Puma", "last_price": "R$ 299,99", "current_price": "R$ 175,74"}
 {"name": "Tênis Nike Legend Essential 3 Next Nature ", "brand": "Nike", "last_price": "R$ 549,99", "current_price": "R$ 329,99"}
 {"name": "Tênis Nike Defy All Day ", "brand": "Nike", "last_price": "R$ 599,99", "current_price": "R$ 339,99"}
 {"name": "Tênis Nike In", "brand": "Nike", "last_price": "R$ 749,99", "current_price": "R$ 369,99"}
@@ -48,3 +50,451 @@
 {"name": "Tênis Nike MC Trainer 2 ", "brand": "Nike", "last_price": "R$ 599,99", "current_price": "R$ 499,99"}
 {"name": "Tênis Nike Impact 4 ", "brand": "Nike", "last_price": "R$ 749,99", "current_price": "R$ 529,99"}
 {"name": "Tênis adidas Lite Racer 3.0 ", "brand": "adidas", "last_price": "R$ 349,99", "current_price": "R$ 232,74"}
+{"name": "Tênis Nike Legend Essential 3 Next Nature ", "brand": "Nike", "last_price": "R$ 549,99", "current_price": "R$ 329,99"}
+{"name": "Tênis Nike Free Metcon 5 ", "brand": "Nike", "last_price": "R$ 899,99", "current_price": "R$ 799,99"}
+{"name": "Tênis Nike Free Metcon 5 ", "brand": "Nike", "last_price": "R$ 899,99", "current_price": "R$ 799,99"}
+{"name": "Tênis Nike In", "brand": "Nike", "last_price": "R$ 699,99", "current_price": "R$ 349,99"}
+{"name": "Tênis Nike Defy All Day ", "brand": "Nike", "last_price": "R$ 599,99", "current_price": "R$ 349,99"}
+{"name": "Tênis Under Armour Tribase Reps ", "brand": "Under", "last_price": "R$ 449,99", "current_price": "R$ 399,99"}
+{"name": "Tênis adidas Lite Racer 3 0 ", "brand": "adidas", "last_price": "R$ 299,99", "current_price": "R$ 204,24"}
+{"name": "Tênis Puma Wired Run BDP", "brand": "Puma", "last_price": null, "current_price": "R$ 329,90"}
+{"name": "Tênis Puma NRGY Comet ", "brand": "Puma", "last_price": "R$ 359,90", "current_price": "R$ 279,90"}
+{"name": "Tênis Nike In", "brand": "Nike", "last_price": "R$ 699,99", "current_price": "R$ 349,99"}
+{"name": "Tênis Nike Metcon 9 ", "brand": "Nike", "last_price": "R$ 1.199,99", "current_price": "R$ 1.079,99"}
+{"name": "Tênis Nike Legend Essential 3 Next Nature ", "brand": "Nike", "last_price": "R$ 549,99", "current_price": "R$ 329,99"}
+{"name": "Tênis Nike Air Max Sc ", "brand": "Nike", "last_price": "R$ 699,99", "current_price": "R$ 484,49"}
+{"name": "Tênis Puma Wired Run BDP ", "brand": "Puma", "last_price": "R$ 279,99", "current_price": "R$ 175,74"}
+{"name": "Tênis Nike Impact 4 ", "brand": "Nike", "last_price": null, "current_price": "R$ 749,99"}
+{"name": "Tênis Nike Legend Essential 3 Next Nature ", "brand": "Nike", "last_price": "R$ 549,99", "current_price": "R$ 329,99"}
+{"name": "Tênis Nike Legend Essential 3 Next Nature ", "brand": "Nike", "last_price": "R$ 549,99", "current_price": "R$ 329,99"}
+{"name": "Tênis adidas Lite Racer 3.0 ", "brand": "adidas", "last_price": "R$ 349,99", "current_price": "R$ 242,24"}
+{"name": "Tênis Nike Metcon 9 ", "brand": "Nike", "last_price": "R$ 1.199,99", "current_price": "R$ 849,99"}
+{"name": "Tênis Nike Metcon 9 ", "brand": "Nike", "last_price": "R$ 1.199,99", "current_price": "R$ 849,99"}
+{"name": "Tênis Nike Air Max Sc ", "brand": "Nike", "last_price": "R$ 699,99", "current_price": "R$ 399,99"}
+{"name": "Tênis Nike Free Metcon 5 ", "brand": "Nike", "last_price": "R$ 899,99", "current_price": "R$ 799,99"}
+{"name": "Tênis Nike Legend Essential 3 Next Nature ", "brand": "Nike", "last_price": "R$ 549,99", "current_price": "R$ 329,99"}
+{"name": "Tênis Nike Zoom Bella 6 ", "brand": "Nike", "last_price": "R$ 599,99", "current_price": "R$ 429,99"}
+{"name": "Tênis adidas Lite Racer 3 0 ", "brand": "adidas", "last_price": "R$ 309,90", "current_price": "R$ 269,90"}
+{"name": "Tênis Nike Legend Essential 3 Next Nature ", "brand": "Nike", "last_price": "R$ 549,99", "current_price": "R$ 329,99"}
+{"name": "Tênis adidas Lite Racer 3 0 ", "brand": "adidas", "last_price": "R$ 309,90", "current_price": "R$ 279,90"}
+{"name": "Tênis Nike Mc Trainer 2 ", "brand": "Nike", "last_price": "R$ 599,99", "current_price": "R$ 289,99"}
+{"name": "Tênis de Treino Under Armour Tribase Cross SE ", "brand": "de", "last_price": null, "current_price": "R$ 549,99"}
+{"name": "Tênis Nike In", "brand": "Nike", "last_price": "R$ 699,99", "current_price": "R$ 369,99"}
+{"name": "Tênis Olympikus Taurus ", "brand": "Olympikus", "last_price": "R$ 559,98", "current_price": "R$ 249,99"}
+{"name": "Tênis Nike Free Metcon 5 ", "brand": "Nike", "last_price": "R$ 999,99", "current_price": "R$ 849,99"}
+{"name": "Tênis Nike Metcon 9 ", "brand": "Nike", "last_price": "R$ 1.199,99", "current_price": "R$ 869,99"}
+{"name": "Tênis Fila Tracer ", "brand": "Fila", "last_price": "R$ 409,90", "current_price": "R$ 279,90"}
+{"name": "Tênis Puma Flyer Runner BDP ", "brand": "Puma", "last_price": null, "current_price": "R$ 338,96"}
+{"name": "Tênis adidas QT Racer 3.0 ", "brand": "adidas", "last_price": "R$ 389,99", "current_price": "R$ 261,24"}
+{"name": "Tênis Olympikus Flutua ", "brand": "Olympikus", "last_price": "R$ 208,99", "current_price": "R$ 184,99"}
+{"name": "Tênis Under Armour Tribase Cross Se ", "brand": "Under", "last_price": null, "current_price": "R$ 549,99"}
+{"name": "Tênis Olympikus Mood ", "brand": "Olympikus", "last_price": "R$ 209,90", "current_price": "R$ 149,90"}
+{"name": "Tênis Nike Free Metcon 5 ", "brand": "Nike", "last_price": "R$ 899,99", "current_price": "R$ 849,99"}
+{"name": "Tênis New Balance 1080 V12 ", "brand": "New", "last_price": "R$ 999,90", "current_price": "R$ 689,90"}
+{"name": "Tênis Nike Metcon 9 ", "brand": "Nike", "last_price": "R$ 1.199,99", "current_price": "R$ 949,99"}
+{"name": "Tênis ASICS Gel", "brand": "ASICS", "last_price": "R$ 429,99", "current_price": "R$ 270,74"}
+{"name": "Tênis Nike Air Max INTRLK Lite ", "brand": "Nike", "last_price": null, "current_price": "R$ 599,99"}
+{"name": "Tênis Olympikus Urbex ", "brand": "Olympikus", "last_price": "R$ 209,90", "current_price": "R$ 159,90"}
+{"name": "Tênis Nike Legend Essential 3 Next Nature ", "brand": "Nike", "last_price": "R$ 549,99", "current_price": "R$ 329,99"}
+{"name": "Tênis Mizuno Cool Ride ", "brand": "Mizuno", "last_price": "R$ 349,99", "current_price": "R$ 229,99"}
+{"name": "Tênis Nike Air Max Sc ", "brand": "Nike", "last_price": "R$ 699,99", "current_price": "R$ 313,49"}
+{"name": "Tênis Nike Air Max Impact 4 ", "brand": "Nike", "last_price": "R$ 749,99", "current_price": "R$ 479,99"}
+{"name": "Tênis Mizuno Cool Ride ", "brand": "Mizuno", "last_price": "R$ 312,50", "current_price": "R$ 302,50"}
+{"name": "Tênis Nike In", "brand": "Nike", "last_price": "R$ 699,99", "current_price": "R$ 369,99"}
+{"name": "Tênis Everlast Climber Pro ", "brand": "Everlast", "last_price": "R$ 499,99", "current_price": "R$ 319,99"}
+{"name": "Tênis Puma Wired Run BDP ", "brand": "Puma", "last_price": "R$ 389,90", "current_price": "R$ 229,90"}
+{"name": "Tênis Nike Legend Essential 3 Next Nature ", "brand": "Nike", "last_price": "R$ 549,99", "current_price": "R$ 329,99"}
+{"name": "Tênis Nike Legend Essential 3 Next Nature ", "brand": "Nike", "last_price": "R$ 549,99", "current_price": "R$ 329,99"}
+{"name": "Tênis Fila Recovery ", "brand": "Fila", "last_price": "R$ 379,99", "current_price": "R$ 229,99"}
+{"name": "Tênis Nike Metcon 9 ", "brand": "Nike", "last_price": "R$ 1.199,99", "current_price": "R$ 899,99"}
+{"name": "Tênis Nike Legend Essential 3 Next Nature ", "brand": "Nike", "last_price": "R$ 549,99", "current_price": "R$ 329,99"}
+{"name": "Tênis Olympikus Mantra ", "brand": "Olympikus", "last_price": "R$ 174,90", "current_price": "R$ 104,90"}
+{"name": "Tênis Puma Flyer Runner BDP ", "brand": "Puma", "last_price": "R$ 389,90", "current_price": "R$ 249,90"}
+{"name": "Tênis Nike Metcon 9 ", "brand": "Nike", "last_price": "R$ 1.199,99", "current_price": "R$ 869,99"}
+{"name": "Kit Olympikus: Tênis Citrus + Tênis Ultraleve 130G ", "brand": "Olympikus:", "last_price": "R$ 409,98", "current_price": "R$ 279,99"}
+{"name": "Tênis Olympikus Flutua ", "brand": "Olympikus", "last_price": "R$ 189,99", "current_price": "R$ 109,24"}
+{"name": "Tênis adidas Advantage Base ", "brand": "adidas", "last_price": "R$ 309,90", "current_price": "R$ 289,90"}
+{"name": "Tênis Olympikus Atmos ", "brand": "Olympikus", "last_price": "R$ 219,99", "current_price": "R$ 168,99"}
+{"name": "Tênis adidas Rapidmove ", "brand": "adidas", "last_price": "R$ 699,99", "current_price": "R$ 409,99"}
+{"name": "Tênis Puma Carina BDP ", "brand": "Puma", "last_price": null, "current_price": "R$ 399,90"}
+{"name": "Tênis Under Armour Tribase Cross ", "brand": "Under", "last_price": "R$ 559,90", "current_price": "R$ 359,90"}
+{"name": "Tênis Olympikus Citrus ", "brand": "Olympikus", "last_price": "R$ 179,99", "current_price": "R$ 159,99"}
+{"name": "Tênis Fila F Virtuous ", "brand": "Fila", "last_price": "R$ 399,90", "current_price": "R$ 369,90"}
+{"name": "Tênis Under Armour Tribase Reps ", "brand": "Under", "last_price": "R$ 449,99", "current_price": "R$ 399,99"}
+{"name": "Tênis Fila Float Elite ", "brand": "Fila", "last_price": "R$ 749,90", "current_price": "R$ 429,90"}
+{"name": "Tênis Olympikus Acqua ", "brand": "Olympikus", "last_price": null, "current_price": "R$ 199,99"}
+{"name": "Tênis Under Armour Charged Slight 2 ", "brand": "Under", "last_price": "R$ 359,99", "current_price": "R$ 244,99"}
+{"name": "Tênis Nike SuperRep Go 3 Next Nature Flyknit Masculino", "brand": "Nike", "last_price": "R$ 999,99", "current_price": "R$ 499,99"}
+{"name": "Tênis Fila Tracer ", "brand": "Fila", "last_price": "R$ 409,90", "current_price": "R$ 359,90"}
+{"name": "Tênis Nike Metcon 9 ", "brand": "Nike", "last_price": "R$ 1.199,99", "current_price": "R$ 899,99"}
+{"name": "Tênis Under Armour Dagger ", "brand": "Under", "last_price": "R$ 509,90", "current_price": "R$ 359,90"}
+{"name": "Tênis Olympikus Day + Par de Meias ", "brand": "Olympikus", "last_price": "R$ 252,99", "current_price": "R$ 219,99"}
+{"name": "Tênis Under Armour Tribase Cross ", "brand": "Under", "last_price": "R$ 509,90", "current_price": "R$ 359,90"}
+{"name": "Tênis Fila Extra ", "brand": "Fila", "last_price": "R$ 309,90", "current_price": "R$ 269,90"}
+{"name": "Tênis Nike Zoom Bella 6 ", "brand": "Nike", "last_price": "R$ 599,99", "current_price": "R$ 399,99"}
+{"name": "Tênis Under Armour Tribase Cross ", "brand": "Under", "last_price": "R$ 499,90", "current_price": "R$ 449,90"}
+{"name": "Tênis adidas Cloudfoam Pure Floral 2.0 ", "brand": "adidas", "last_price": "R$ 449,99", "current_price": "R$ 303,99"}
+{"name": "Tênis Under Armour Project Rock 5 ", "brand": "Under", "last_price": "R$ 1.199,99", "current_price": "R$ 529,99"}
+{"name": "Tênis Nike Free Metcon 5 ", "brand": "Nike", "last_price": "R$ 899,99", "current_price": "R$ 799,99"}
+{"name": "Tênis Fila Euro Jogger Sport ", "brand": "Fila", "last_price": "R$ 417,99", "current_price": "R$ 236,02"}
+{"name": "Tênis Olympikus 237g ", "brand": "Olympikus", "last_price": "R$ 249,90", "current_price": "R$ 154,77"}
+{"name": "Tênis Puma Wired Run BDP ", "brand": "Puma", "last_price": "R$ 289,90", "current_price": "R$ 239,90"}
+{"name": "Tênis Nike Free Metcon 5 ", "brand": "Nike", "last_price": "R$ 899,99", "current_price": "R$ 849,99"}
+{"name": "Tênis Nike Metcon 9 ", "brand": "Nike", "last_price": "R$ 1.199,99", "current_price": "R$ 899,99"}
+{"name": "Tênis Everlast Argo ", "brand": "Everlast", "last_price": "R$ 269,90", "current_price": "R$ 149,90"}
+{"name": "Tênis Olympikus Mood ", "brand": "Olympikus", "last_price": "R$ 199,99", "current_price": "R$ 130,99"}
+{"name": "Tênis Nike Free Metcon 5 ", "brand": "Nike", "last_price": "R$ 899,99", "current_price": "R$ 799,99"}
+{"name": "Tênis Nike Legend Essential 3 Next Nature ", "brand": "Nike", "last_price": "R$ 549,99", "current_price": "R$ 329,99"}
+{"name": "Tênis Everlast Climber 4 ", "brand": "Everlast", "last_price": "R$ 349,99", "current_price": "R$ 223,99"}
+{"name": "Tênis Fila Recovery ", "brand": "Fila", "last_price": "R$ 379,99", "current_price": "R$ 229,99"}
+{"name": "Tênis Olympikus Proof 3 ", "brand": "Olympikus", "last_price": null, "current_price": "R$ 188,76"}
+{"name": "Tênis Nike Free Metcon 5 ", "brand": "Nike", "last_price": "R$ 899,99", "current_price": "R$ 799,99"}
+{"name": "Tênis adidas QT Racer 3.0 ", "brand": "adidas", "last_price": "R$ 389,99", "current_price": "R$ 223,24"}
+{"name": "Tênis Jogging Academia Runway ", "brand": "Jogging", "last_price": "R$ 116,90", "current_price": "R$ 93,90"}
+{"name": "Tênis Olympikus 129G ", "brand": "Olympikus", "last_price": "R$ 239,90", "current_price": "R$ 169,90"}
+{"name": "Tênis Olympikus Ultraleve 155G ", "brand": "Olympikus", "last_price": "R$ 239,90", "current_price": "R$ 159,90"}
+{"name": "Tênis Nike Versair ", "brand": "Nike", "last_price": "R$ 999,99", "current_price": "R$ 699,99"}
+{"name": "Kit Tênis Under Armour Charged Fleet + Meia Essential ", "brand": "Tênis", "last_price": "R$ 259,98", "current_price": "R$ 199,99"}
+{"name": "Tênis Olympikus Only 2 ", "brand": "Olympikus", "last_price": "R$ 199,90", "current_price": "R$ 159,90"}
+{"name": "Tênis Olympikus Proof 3 ", "brand": "Olympikus", "last_price": "R$ 199,90", "current_price": "R$ 172,90"}
+{"name": "Tênis Olympikus Only 2 ", "brand": "Olympikus", "last_price": "R$ 199,90", "current_price": "R$ 159,90"}
+{"name": "Tênis Everlast Climber Pro ", "brand": "Everlast", "last_price": "R$ 499,99", "current_price": "R$ 319,99"}
+{"name": "Tênis Under Armour Spawn 3 ", "brand": "Under", "last_price": "R$ 409,90", "current_price": "R$ 349,90"}
+{"name": "Tênis Puma Flyer Runner BDP ", "brand": "Puma", "last_price": "R$ 359,90", "current_price": "R$ 269,90"}
+{"name": "Tênis Olympikus Mantra ", "brand": "Olympikus", "last_price": "R$ 174,90", "current_price": "R$ 104,90"}
+{"name": "Tênis Nike City Rep TR ", "brand": "Nike", "last_price": "R$ 549,99", "current_price": "R$ 289,99"}
+{"name": "Tênis Nike In", "brand": "Nike", "last_price": "R$ 699,99", "current_price": "R$ 359,99"}
+{"name": "Tênis Nike Metcon 9 ", "brand": "Nike", "last_price": "R$ 1.199,99", "current_price": "R$ 849,99"}
+{"name": "Tênis Puma Wired Run BDP ", "brand": "Puma", "last_price": null, "current_price": "R$ 299,99"}
+{"name": "Tênis Under Armour Tribase Reps ", "brand": "Under", "last_price": "R$ 449,99", "current_price": "R$ 399,99"}
+{"name": "Tênis Fila Trend 3.0 ", "brand": "Fila", "last_price": "R$ 289,90", "current_price": "R$ 229,90"}
+{"name": "Tênis Nike Metcon 9 Easyon ", "brand": "Nike", "last_price": null, "current_price": "R$ 1.199,99"}
+{"name": "Tênis Under Armour Tribase Cross Quiron ", "brand": "Under", "last_price": "R$ 499,90", "current_price": "R$ 449,90"}
+{"name": "Tênis Olympikus Eros Casual Branco ", "brand": "Olympikus", "last_price": "R$ 199,90", "current_price": "R$ 179,91"}
+{"name": "Tênis Nike Air Max Sc ", "brand": "Nike", "last_price": "R$ 699,99", "current_price": "R$ 417,99"}
+{"name": "Kit Olympikus: Tênis Citrus + Tênis Ultraleve 130G ", "brand": "Olympikus:", "last_price": "R$ 409,98", "current_price": "R$ 279,99"}
+{"name": "Tênis Olympikus 130G Ultraleve ", "brand": "Olympikus", "last_price": null, "current_price": "R$ 229,99"}
+{"name": "Tênis Under Armour Tribase Cross ", "brand": "Under", "last_price": "R$ 559,90", "current_price": "R$ 339,90"}
+{"name": "Tênis Fila Vega ", "brand": "Fila", "last_price": "R$ 399,90", "current_price": "R$ 212,90"}
+{"name": "Tênis Olympikus Cyan ", "brand": "Olympikus", "last_price": "R$ 209,90", "current_price": "R$ 129,90"}
+{"name": "Tênis Nike Metcon 9 ", "brand": "Nike", "last_price": "R$ 1.199,99", "current_price": "R$ 899,99"}
+{"name": "Tênis Puma Wired Run BDP ", "brand": "Puma", "last_price": "R$ 289,90", "current_price": "R$ 269,90"}
+{"name": "Tênis Olympikus Mantra ", "brand": "Olympikus", "last_price": "R$ 174,90", "current_price": "R$ 104,90"}
+{"name": "Tênis Nike Free Metcon 5 ", "brand": "Nike", "last_price": "R$ 899,99", "current_price": "R$ 799,99"}
+{"name": "Tênis Olympikus Proof 3 ", "brand": "Olympikus", "last_price": "R$ 199,90", "current_price": "R$ 175,90"}
+{"name": "Tênis Olympikus Atmos ", "brand": "Olympikus", "last_price": "R$ 197,99", "current_price": "R$ 169,99"}
+{"name": "Tênis Fila Float Prime ", "brand": "Fila", "last_price": "R$ 549,90", "current_price": "R$ 369,90"}
+{"name": "Tênis Under Armour Tribase Reps ", "brand": "Under", "last_price": "R$ 449,99", "current_price": "R$ 399,99"}
+{"name": "Tênis Nike In", "brand": "Nike", "last_price": "R$ 699,99", "current_price": "R$ 389,99"}
+{"name": "Tênis Olympikus Volcan ", "brand": "Olympikus", "last_price": "R$ 219,99", "current_price": "R$ 150,68"}
+{"name": "Tênis Under Armour Slight 2 ", "brand": "Under", "last_price": "R$ 369,90", "current_price": "R$ 349,90"}
+{"name": "Tênis Fila Racer T2 ", "brand": "Fila", "last_price": "R$ 599,90", "current_price": "R$ 419,90"}
+{"name": "Tênis Fila Freestyle ", "brand": "Fila", "last_price": "R$ 309,90", "current_price": "R$ 289,90"}
+{"name": "Tênis Everlast Cave Runner ", "brand": "Everlast", "last_price": "R$ 309,90", "current_price": "R$ 209,90"}
+{"name": "Tênis Puma Pacer Future ", "brand": "Puma", "last_price": "R$ 459,90", "current_price": "R$ 329,90"}
+{"name": "Tênis Fila F Virtuous ", "brand": "Fila", "last_price": "R$ 399,90", "current_price": "R$ 369,90"}
+{"name": "Tênis Proof 3 Olympikus ", "brand": "Proof", "last_price": "R$ 199,90", "current_price": "R$ 194,90"}
+{"name": "Tênis Olympikus 130G Ultraleve ", "brand": "Olympikus", "last_price": null, "current_price": "R$ 229,99"}
+{"name": "Tênis Olympikus Saturno ", "brand": "Olympikus", "last_price": "R$ 269,90", "current_price": "R$ 189,90"}
+{"name": "Tênis Olympikus Poseidon ", "brand": "Olympikus", "last_price": "R$ 209,90", "current_price": "R$ 159,90"}
+{"name": "Tênis Puma Wired Rapid BDP ", "brand": "Puma", "last_price": "R$ 389,90", "current_price": "R$ 249,90"}
+{"name": "Tênis Mizuno Cool Ride ", "brand": "Mizuno", "last_price": null, "current_price": "R$ 349,00"}
+{"name": "Tênis Olympikus Challenger 4 ", "brand": "Olympikus", "last_price": "R$ 289,90", "current_price": "R$ 229,90"}
+{"name": "Tênis Nike Versair ", "brand": "Nike", "last_price": "R$ 999,99", "current_price": "R$ 699,99"}
+{"name": "Tênis Olympikus 232G Ultraleve ", "brand": "Olympikus", "last_price": "R$ 239,90", "current_price": "R$ 179,90"}
+{"name": "Tênis Under Armour HOVR Rise ", "brand": "Under", "last_price": "R$ 449,99", "current_price": "R$ 329,99"}
+{"name": "Tênis Nike In", "brand": "Nike", "last_price": "R$ 749,99", "current_price": "R$ 419,99"}
+{"name": "Tênis de Treino Masculino Under Armour Tribase Reps", "brand": "de", "last_price": "R$ 449,99", "current_price": "R$ 399,99"}
+{"name": "Tênis Nike Air Zoom Tr 1 ", "brand": "Nike", "last_price": "R$ 899,99", "current_price": "R$ 579,99"}
+{"name": "Tênis Olympikus Volcan ", "brand": "Olympikus", "last_price": "R$ 142,64", "current_price": "R$ 128,38"}
+{"name": "Tênis Olympikus Zex 168 ", "brand": "Olympikus", "last_price": "R$ 150,16", "current_price": "R$ 135,14"}
+{"name": "Tênis Under Armour Charged Quicker ", "brand": "Under", "last_price": "R$ 409,90", "current_price": "R$ 349,90"}
+{"name": "Tênis Everlast Force 2 ", "brand": "Everlast", "last_price": "R$ 269,90", "current_price": "R$ 249,90"}
+{"name": "Tênis Puma Flyer Runner BDP ", "brand": "Puma", "last_price": "R$ 359,90", "current_price": "R$ 239,90"}
+{"name": "Tênis Nike Star Runner 4 ", "brand": "Nike", "last_price": "R$ 429,99", "current_price": "R$ 279,99"}
+{"name": "Tênis Olympikus Citrus ", "brand": "Olympikus", "last_price": "R$ 179,99", "current_price": "R$ 159,99"}
+{"name": "Tênis Nike Metcon 9 Flyease ", "brand": "Nike", "last_price": "R$ 1.199,99", "current_price": "R$ 899,99"}
+{"name": "Tênis Under Armour Tribase Reps ", "brand": "Under", "last_price": "R$ 449,99", "current_price": "R$ 399,99"}
+{"name": "Tênis Olympikus Veloz 2 ", "brand": "Olympikus", "last_price": "R$ 269,90", "current_price": "R$ 199,90"}
+{"name": "Tênis Puma Smash V2 Wns BDP ", "brand": "Puma", "last_price": "R$ 359,90", "current_price": "R$ 239,90"}
+{"name": "Tênis Skechers Ultra Flex 2.0 Pretty Dazzling ", "brand": "Skechers", "last_price": "R$ 379,90", "current_price": "R$ 338,11"}
+{"name": "Tênis Olympikus Citrus ", "brand": "Olympikus", "last_price": "R$ 189,90", "current_price": "R$ 139,90"}
+{"name": "Tênis adidas Lite Racer 3.0 ", "brand": "adidas", "last_price": null, "current_price": "R$ 357,98"}
+{"name": "Tênis Olympikus Citrus ", "brand": "Olympikus", "last_price": "R$ 179,99", "current_price": "R$ 159,99"}
+{"name": "Tênis Puma Anzarun Lite Bold ", "brand": "Puma", "last_price": "R$ 389,90", "current_price": "R$ 289,90"}
+{"name": "Tênis Olympikus Poseidon ", "brand": "Olympikus", "last_price": "R$ 209,90", "current_price": "R$ 159,90"}
+{"name": "Tênis Skechers Go Run Fast ", "brand": "Skechers", "last_price": "R$ 346,89", "current_price": "R$ 312,20"}
+{"name": "Tênis adidas X Plr Path K ", "brand": "adidas", "last_price": "R$ 359,90", "current_price": "R$ 329,90"}
+{"name": "Tênis Under Armour Tribase Reps ", "brand": "Under", "last_price": "R$ 449,99", "current_price": "R$ 399,99"}
+{"name": "Tênis Everlast Space ", "brand": "Everlast", "last_price": "R$ 209,99", "current_price": "R$ 179,90"}
+{"name": "Tênis Olympikus Ultraleve 130 G ", "brand": "Olympikus", "last_price": "R$ 239,90", "current_price": "R$ 159,90"}
+{"name": "Tênis Olympikus Flit 3 ", "brand": "Olympikus", "last_price": null, "current_price": "R$ 249,99"}
+{"name": "Tênis Under Armour Flow Dynamic ", "brand": "Under", "last_price": "R$ 1.199,99", "current_price": "R$ 429,99"}
+{"name": "Tênis Olympikus 146g Ultraleve ", "brand": "Olympikus", "last_price": "R$ 229,90", "current_price": "R$ 208,09"}
+{"name": "Tênis Nike Zoom Metcon Turbo 2 ", "brand": "Nike", "last_price": "R$ 1.299,99", "current_price": "R$ 779,99"}
+{"name": "Tênis Asics Gel Equation 11 ", "brand": "Asics", "last_price": "R$ 449,90", "current_price": "R$ 299,00"}
+{"name": "Tênis Nike Metcon 9 ", "brand": "Nike", "last_price": "R$ 1.199,99", "current_price": "R$ 759,99"}
+{"name": "Tênis Under Armour Spawn 3 ", "brand": "Under", "last_price": "R$ 399,90", "current_price": "R$ 359,90"}
+{"name": "Tênis Under Armour Spawn 3 ", "brand": "Under", "last_price": "R$ 409,90", "current_price": "R$ 349,90"}
+{"name": "Tenis Everlast Cave Runner ", "brand": "Everlast", "last_price": "R$ 299,99", "current_price": "R$ 203,99"}
+{"name": "Tênis Nike Free Metcon 4 ", "brand": "Nike", "last_price": "R$ 899,99", "current_price": "R$ 649,99"}
+{"name": "Tênis Under Armour Spawn 3 ", "brand": "Under", "last_price": "R$ 399,90", "current_price": "R$ 359,90"}
+{"name": "Tênis Olympikus Day + Par de Meias ", "brand": "Olympikus", "last_price": "R$ 262,99", "current_price": "R$ 187,99"}
+{"name": "Tênis New Balance 1080 V12 ", "brand": "New", "last_price": "R$ 999,90", "current_price": "R$ 689,90"}
+{"name": "Tênis Under Armour Tribase Cross ", "brand": "Under", "last_price": "R$ 549,99", "current_price": "R$ 296,99"}
+{"name": "Tênis adidas Galaxy 6 ", "brand": "adidas", "last_price": "R$ 499,90", "current_price": "R$ 379,88"}
+{"name": "Tênis adidas Advantage Base II ", "brand": "adidas", "last_price": "R$ 309,90", "current_price": "R$ 249,90"}
+{"name": "Tênis Fila Racer T2 ", "brand": "Fila", "last_price": "R$ 649,90", "current_price": "R$ 449,90"}
+{"name": "Tênis Everlast Imola Feminino", "brand": "Everlast", "last_price": "R$ 179,99", "current_price": "R$ 99,99"}
+{"name": "Tênis Nike Air Vapormax Flyknit 2023 ", "brand": "Nike", "last_price": "R$ 1.799,99", "current_price": "R$ 1.129,99"}
+{"name": "Tênis Nike In", "brand": "Nike", "last_price": "R$ 699,99", "current_price": "R$ 389,99"}
+{"name": "Tênis Everlast Force 2 + 3 Pares de Meias ", "brand": "Everlast", "last_price": "R$ 299,90", "current_price": "R$ 229,90"}
+{"name": "Tênis Volt Esportivo ", "brand": "Volt", "last_price": "R$ 199,90", "current_price": "R$ 79,90"}
+{"name": "Tênis Puma Flyer Runner BDP ", "brand": "Puma", "last_price": "R$ 389,90", "current_price": "R$ 249,90"}
+{"name": "Tênis adidas Advantage Court ", "brand": "adidas", "last_price": null, "current_price": "R$ 299,90"}
+{"name": "Tênis Everlast Climber 4 ", "brand": "Everlast", "last_price": "R$ 349,99", "current_price": "R$ 289,99"}
+{"name": "Tênis Fila Recovery + 1 Par de Meias Olympikus ", "brand": "Fila", "last_price": "R$ 427,99", "current_price": "R$ 273,85"}
+{"name": "Tênis Under Armour Flow Dynamic ", "brand": "Under", "last_price": "R$ 1.199,99", "current_price": "R$ 369,99"}
+{"name": "Tênis Under Armour Tribase Reps ", "brand": "Under", "last_price": null, "current_price": "R$ 449,90"}
+{"name": "Tênis Under Armour Tribase Reps ", "brand": "Under", "last_price": "R$ 449,99", "current_price": "R$ 255,42"}
+{"name": "Tênis Under Armour Tribase Reps ", "brand": "Under", "last_price": null, "current_price": "R$ 399,90"}
+{"name": "Tênis Everlast Jump Pro Preto e Azul ", "brand": "Everlast", "last_price": "R$ 499,99", "current_price": "R$ 319,99"}
+{"name": "Tênis adidas Dropset 2 ", "brand": "adidas", "last_price": "R$ 899,99", "current_price": "R$ 699,99"}
+{"name": "Tênis Under Armour Flow Dynamic ", "brand": "Under", "last_price": "R$ 1.199,99", "current_price": "R$ 369,99"}
+{"name": "Tênis New Balance 411V3 ", "brand": "New", "last_price": "R$ 299,99", "current_price": "R$ 279,90"}
+{"name": "Tênis Mizuno Wave Falcon 4 ", "brand": "Mizuno", "last_price": "R$ 368,35", "current_price": "R$ 285,97"}
+{"name": "Tênis Olympikus Saturno ", "brand": "Olympikus", "last_price": "R$ 269,90", "current_price": "R$ 199,90"}
+{"name": "Tênis Everlast Space ", "brand": "Everlast", "last_price": "R$ 219,90", "current_price": "R$ 179,88"}
+{"name": "Tênis Jogging Academia Runway ", "brand": "Jogging", "last_price": "R$ 116,90", "current_price": "R$ 93,90"}
+{"name": "Tênis Everlast Forceknit 4 ", "brand": "Everlast", "last_price": "R$ 299,99", "current_price": "R$ 279,99"}
+{"name": "Tênis Asics Gel", "brand": "Asics", "last_price": "R$ 649,99", "current_price": "R$ 599,99"}
+{"name": "Tênis Nike Legend Essential 3 Next Nature ", "brand": "Nike", "last_price": "R$ 549,99", "current_price": "R$ 329,99"}
+{"name": "Tênis Rainha Slip On Dream Iii ", "brand": "Rainha", "last_price": "R$ 169,90", "current_price": "R$ 139,88"}
+{"name": "Tênis Nike Air Zoom Tr 1 ", "brand": "Nike", "last_price": "R$ 899,99", "current_price": "R$ 549,99"}
+{"name": "Tênis adidas Lite Racer 3.0 ", "brand": "adidas", "last_price": "R$ 379,90", "current_price": "R$ 289,88"}
+{"name": "Tênis adidas Lite Racer 3 0 ", "brand": "adidas", "last_price": "R$ 399,90", "current_price": "R$ 289,88"}
+{"name": "Tênis Rainha Play Iii ", "brand": "Rainha", "last_price": "R$ 199,90", "current_price": "R$ 159,88"}
+{"name": "Tênis Fila Racer T2 ", "brand": "Fila", "last_price": "R$ 599,90", "current_price": "R$ 399,90"}
+{"name": "Tênis Everlast Monster 3 ", "brand": "Everlast", "last_price": "R$ 379,99", "current_price": "R$ 243,99"}
+{"name": "Tênis Olympikus Anyway 2 ", "brand": "Olympikus", "last_price": "R$ 199,90", "current_price": "R$ 129,90"}
+{"name": "Tênis Everlast Force 2 ", "brand": "Everlast", "last_price": "R$ 269,99", "current_price": "R$ 199,99"}
+{"name": "Tênis Under Armour Charged Hit ", "brand": "Under", "last_price": "R$ 499,99", "current_price": "R$ 287,63"}
+{"name": "Tênis Under Armour Charged Quicke ", "brand": "Under", "last_price": null, "current_price": "R$ 399,99"}
+{"name": "Tênis Under Armour Charged Quicker ", "brand": "Under", "last_price": "R$ 409,90", "current_price": "R$ 349,90"}
+{"name": "Tênis Everlast Forceknit 4 ", "brand": "Everlast", "last_price": "R$ 299,99", "current_price": "R$ 249,99"}
+{"name": "Tênis adidas Swift Run 22 ", "brand": "adidas", "last_price": "R$ 699,90", "current_price": "R$ 449,90"}
+{"name": "Tênis Fila Magnific ", "brand": "Fila", "last_price": "R$ 459,90", "current_price": "R$ 269,90"}
+{"name": "Tênis Olympikus Dynamic ", "brand": "Olympikus", "last_price": null, "current_price": "R$ 279,99"}
+{"name": "Tênis Fila Vega ", "brand": "Fila", "last_price": "R$ 399,90", "current_price": "R$ 212,90"}
+{"name": "Tênis Mizuno Wave Falcon 4 ", "brand": "Mizuno", "last_price": "R$ 439,90", "current_price": "R$ 279,88"}
+{"name": "Tênis adidas Lite Racer 3 0 ", "brand": "adidas", "last_price": null, "current_price": "R$ 299,90"}
+{"name": "Tênis Nike Renew Retaliation 4 ", "brand": "Nike", "last_price": "R$ 699,99", "current_price": "R$ 359,99"}
+{"name": "Tênis Nike Metcon 9 ", "brand": "Nike", "last_price": null, "current_price": "R$ 1.199,99"}
+{"name": "Tênis Skechers Bountiful ", "brand": "Skechers", "last_price": "R$ 299,90", "current_price": "R$ 219,90"}
+{"name": "Tenis Asics Gel Excite 8 ", "brand": "Asics", "last_price": "R$ 399,90", "current_price": "R$ 249,90"}
+{"name": "Kit Tênis Fila Float Elite com 3 Pares de Meias ", "brand": "Tênis", "last_price": "R$ 719,90", "current_price": "R$ 299,90"}
+{"name": "Tênis Everlast Imola Masculino", "brand": "Everlast", "last_price": "R$ 179,99", "current_price": "R$ 99,99"}
+{"name": "Tênis Olympikus 119G Ultraleve ", "brand": "Olympikus", "last_price": "R$ 229,99", "current_price": "R$ 137,74"}
+{"name": "Tênis Under Armour Charged Quicke ", "brand": "Under", "last_price": null, "current_price": "R$ 399,99"}
+{"name": "Tênis Under Armour Dagger ", "brand": "Under", "last_price": "R$ 499,99", "current_price": "R$ 399,99"}
+{"name": "Tênis Mizuno Wave Falcon 4 ", "brand": "Mizuno", "last_price": "R$ 359,00", "current_price": "R$ 269,90"}
+{"name": "Tênis Fila Calzini ", "brand": "Fila", "last_price": null, "current_price": "R$ 329,00"}
+{"name": "Tênis Puma X", "brand": "Puma", "last_price": "R$ 799,90", "current_price": "R$ 379,90"}
+{"name": "Tênis adidas Lite Racer 3 0 ", "brand": "adidas", "last_price": null, "current_price": "R$ 361,20"}
+{"name": "Tênis Mizuno Wave Falcon 4 ", "brand": "Mizuno", "last_price": "R$ 399,90", "current_price": "R$ 279,90"}
+{"name": "Tênis Puma Prowl Slip On WNS BDP ", "brand": "Puma", "last_price": "R$ 389,90", "current_price": "R$ 329,90"}
+{"name": "Tênis Olympikus Jogging 101 ", "brand": "Olympikus", "last_price": "R$ 219,99", "current_price": "R$ 129,86"}
+{"name": "Tênis Under Armour Charged Wing Se ", "brand": "Under", "last_price": "R$ 362,89", "current_price": "R$ 248,56"}
+{"name": "Tênis Asics Gel", "brand": "Asics", "last_price": "R$ 449,90", "current_price": "R$ 299,90"}
+{"name": "Tênis adidas Galaxy 6 ", "brand": "adidas", "last_price": "R$ 399,90", "current_price": "R$ 359,90"}
+{"name": "Tênis adidas Runfalcon 2.0 ", "brand": "adidas", "last_price": "R$ 379,99", "current_price": "R$ 237,49"}
+{"name": "Tênis Olympikus Only 2 ", "brand": "Olympikus", "last_price": "R$ 189,90", "current_price": "R$ 149,90"}
+{"name": "Tênis Volt Esportivo ", "brand": "Volt", "last_price": "R$ 199,90", "current_price": "R$ 79,90"}
+{"name": "Tênis Olympikus Index 3 ", "brand": "Olympikus", "last_price": "R$ 199,90", "current_price": "R$ 179,90"}
+{"name": "Tênis adidas Lite Racer 3 0 ", "brand": "adidas", "last_price": "R$ 399,90", "current_price": "R$ 289,88"}
+{"name": "Tênis Skechers Go Run Fast ", "brand": "Skechers", "last_price": "R$ 227,82", "current_price": "R$ 205,04"}
+{"name": "Tênis Olympikus Atena ", "brand": "Olympikus", "last_price": "R$ 229,90", "current_price": "R$ 175,90"}
+{"name": "Tênis adidas Dame Certified ", "brand": "adidas", "last_price": "R$ 799,90", "current_price": "R$ 619,90"}
+{"name": "Tênis adidas X Plr Path ", "brand": "adidas", "last_price": "R$ 399,90", "current_price": "R$ 359,90"}
+{"name": "Tênis Under Armour Charged Quicke ", "brand": "Under", "last_price": null, "current_price": "R$ 399,99"}
+{"name": "Tênis Olympikus Day Caminhada Azul ", "brand": "Olympikus", "last_price": null, "current_price": "R$ 229,90"}
+{"name": "Tênis Mizuno Cool Ride ", "brand": "Mizuno", "last_price": null, "current_price": "R$ 349,00"}
+{"name": "Tênis Nike Initiator ", "brand": "Nike", "last_price": null, "current_price": "R$ 649,99"}
+{"name": "Tênis Umbro Street Jogger ", "brand": "Umbro", "last_price": "R$ 349,90", "current_price": "R$ 169,90"}
+{"name": "Tênis Everlast Climber Pro ", "brand": "Everlast", "last_price": "R$ 499,99", "current_price": "R$ 378,99"}
+{"name": "Tênis Rainha Drive Iii ", "brand": "Rainha", "last_price": "R$ 209,90", "current_price": "R$ 129,88"}
+{"name": "Tênis adidas Galaxy 6 ", "brand": "adidas", "last_price": null, "current_price": "R$ 399,90"}
+{"name": "Tênis Nike Free Metcon 5 ", "brand": "Nike", "last_price": "R$ 899,99", "current_price": "R$ 799,99"}
+{"name": "Tênis Olympikus Apolis Original ", "brand": "Olympikus", "last_price": "R$ 209,07", "current_price": "R$ 185,06"}
+{"name": "Tênis Olympikus Lap ", "brand": "Olympikus", "last_price": "R$ 209,90", "current_price": "R$ 189,90"}
+{"name": "Tênis Nike In", "brand": "Nike", "last_price": "R$ 699,99", "current_price": "R$ 389,99"}
+{"name": "Tênis Olympikus Urano 2 ", "brand": "Olympikus", "last_price": "R$ 239,90", "current_price": "R$ 149,90"}
+{"name": "Tênis Everlast Forceknit 4 ", "brand": "Everlast", "last_price": "R$ 299,99", "current_price": "R$ 279,99"}
+{"name": "Tênis Everlast Climber Pro Rosa e Branco ", "brand": "Everlast", "last_price": "R$ 499,99", "current_price": "R$ 319,99"}
+{"name": "Tênis Everlast Climber Iii ", "brand": "Everlast", "last_price": "R$ 349,99", "current_price": "R$ 173,24"}
+{"name": "Tênis Everlast Argo ", "brand": "Everlast", "last_price": "R$ 169,99", "current_price": "R$ 139,90"}
+{"name": "Tênis Everlast Imola Masculino", "brand": "Everlast", "last_price": "R$ 179,99", "current_price": "R$ 99,99"}
+{"name": "Tênis Olympikus Atmos ", "brand": "Olympikus", "last_price": "R$ 208,06", "current_price": "R$ 180,05"}
+{"name": "Tênis adidas Galaxy 6 ", "brand": "adidas", "last_price": "R$ 409,90", "current_price": "R$ 359,90"}
+{"name": "Tênis Nike Defy All Day ", "brand": "Nike", "last_price": null, "current_price": "R$ 599,99"}
+{"name": "Tênis Everlast Argo ", "brand": "Everlast", "last_price": "R$ 159,90", "current_price": "R$ 149,90"}
+{"name": "Tênis Nike Renew Elevate 3 ", "brand": "Nike", "last_price": null, "current_price": "R$ 699,99"}
+{"name": "Tênis Puma Wired Run BDP ", "brand": "Puma", "last_price": "R$ 289,90", "current_price": "R$ 249,90"}
+{"name": "Tênis Olympikus 237g ", "brand": "Olympikus", "last_price": "R$ 249,90", "current_price": "R$ 154,77"}
+{"name": "Tênis Skechers Bountiful ", "brand": "Skechers", "last_price": "R$ 349,90", "current_price": "R$ 249,88"}
+{"name": "Tênis Everlast Climber Pro ", "brand": "Everlast", "last_price": "R$ 499,90", "current_price": "R$ 469,90"}
+{"name": "Tênis Puma Wired Rapid BDP ", "brand": "Puma", "last_price": "R$ 289,90", "current_price": "R$ 279,90"}
+{"name": "Tênis Puma X", "brand": "Puma", "last_price": "R$ 499,90", "current_price": "R$ 449,90"}
+{"name": "Tênis Olympikus Eros ", "brand": "Olympikus", "last_price": "R$ 199,90", "current_price": "R$ 169,89"}
+{"name": "Tênis Olympikus Essential 3 ", "brand": "Olympikus", "last_price": null, "current_price": "R$ 299,99"}
+{"name": "Tênis Jogging Academia Runway ", "brand": "Jogging", "last_price": "R$ 116,90", "current_price": "R$ 93,90"}
+{"name": "Tênis Olympikus Mega ", "brand": "Olympikus", "last_price": "R$ 199,99", "current_price": "R$ 119,99"}
+{"name": "Tênis Olympikus Only 2 ", "brand": "Olympikus", "last_price": "R$ 199,90", "current_price": "R$ 159,90"}
+{"name": "Tênis Rainha Drive Iii ", "brand": "Rainha", "last_price": "R$ 209,90", "current_price": "R$ 149,88"}
+{"name": "Tênis Fila Racer Spider ", "brand": "Fila", "last_price": "R$ 399,90", "current_price": "R$ 285,90"}
+{"name": "Tênis Jogging Academia Runway ", "brand": "Jogging", "last_price": "R$ 116,90", "current_price": "R$ 93,90"}
+{"name": "Tênis Mizuno Wave Tornamic ", "brand": "Mizuno", "last_price": "R$ 399,90", "current_price": "R$ 243,69"}
+{"name": "Tênis Everlast Space ", "brand": "Everlast", "last_price": "R$ 209,99", "current_price": "R$ 179,90"}
+{"name": "Tênis Everlast Range 2 ", "brand": "Everlast", "last_price": "R$ 299,99", "current_price": "R$ 199,99"}
+{"name": "Tênis Reebok Nano X2 Tr Adventure ", "brand": "Reebok", "last_price": "R$ 899,99", "current_price": "R$ 629,99"}
+{"name": "Tênis Fila Select ", "brand": "Fila", "last_price": "R$ 389,90", "current_price": "R$ 309,90"}
+{"name": "Tênis Fila Rt", "brand": "Fila", "last_price": "R$ 389,90", "current_price": "R$ 359,90"}
+{"name": "Tênis Fila Recovery ", "brand": "Fila", "last_price": "R$ 389,90", "current_price": "R$ 329,90"}
+{"name": "Tênis Olympikus Vibração ", "brand": "Olympikus", "last_price": "R$ 189,90", "current_price": "R$ 159,90"}
+{"name": "Tênis Under Armour Charged First ", "brand": "Under", "last_price": "R$ 309,90", "current_price": "R$ 239,90"}
+{"name": "Tênis Olympikus Triunfo 2 ", "brand": "Olympikus", "last_price": "R$ 239,90", "current_price": "R$ 159,90"}
+{"name": "Tênis Mizuno Cool Ride ", "brand": "Mizuno", "last_price": null, "current_price": "R$ 379,90"}
+{"name": "Tênis Under Armour Tribase Cross ", "brand": "Under", "last_price": null, "current_price": "R$ 559,90"}
+{"name": "Tênis Olympikus Aquarios ", "brand": "Olympikus", "last_price": "R$ 259,90", "current_price": "R$ 169,90"}
+{"name": "Tênis Everlast Monster 3 ", "brand": "Everlast", "last_price": null, "current_price": "R$ 379,99"}
+{"name": "Tênis Rainha Drive Iii ", "brand": "Rainha", "last_price": "R$ 209,90", "current_price": "R$ 149,88"}
+{"name": "Tênis Olympikus Proof ", "brand": "Olympikus", "last_price": "R$ 199,99", "current_price": "R$ 150,68"}
+{"name": "Tênis adidas X Plr Path K ", "brand": "adidas", "last_price": null, "current_price": "R$ 359,90"}
+{"name": "Tênis Under Armour Tribase Reps ", "brand": "Under", "last_price": "R$ 449,99", "current_price": "R$ 399,99"}
+{"name": "Tênis Olympikus Reverso 2 ", "brand": "Olympikus", "last_price": "R$ 474,84", "current_price": "R$ 379,87"}
+{"name": "Tênis Under Armour Tribase Reps ", "brand": "Under", "last_price": "R$ 449,99", "current_price": "R$ 359,99"}
+{"name": "Tênis New Balance Fresh Foam Garoé ", "brand": "New", "last_price": "R$ 749,90", "current_price": "R$ 549,90"}
+{"name": "Tênis adidas Lite Racer 3 0 ", "brand": "adidas", "last_price": "R$ 309,90", "current_price": "R$ 269,90"}
+{"name": "Tênis Olympikus Look ", "brand": "Olympikus", "last_price": "R$ 249,90", "current_price": "R$ 189,90"}
+{"name": "Tênis Olympikus Vênus 3 ", "brand": "Olympikus", "last_price": "R$ 169,99", "current_price": "R$ 99,99"}
+{"name": "Tênis Puma Wired Run Slip", "brand": "Puma", "last_price": "R$ 309,90", "current_price": "R$ 259,90"}
+{"name": "Tênis Under Armour Dagger ", "brand": "Under", "last_price": "R$ 499,99", "current_price": "R$ 399,99"}
+{"name": "Tênis Everlast Climber Pro ", "brand": "Everlast", "last_price": null, "current_price": "R$ 499,99"}
+{"name": "Tênis Everlast Force 2 ", "brand": "Everlast", "last_price": "R$ 269,90", "current_price": "R$ 249,90"}
+{"name": "Tênis New Balance 327 Warped ", "brand": "New", "last_price": "R$ 889,00", "current_price": "R$ 453,13"}
+{"name": "Tênis adidas Advantage ", "brand": "adidas", "last_price": "R$ 309,90", "current_price": "R$ 269,90"}
+{"name": "Tênis Under Armour Charged Pulse SE ", "brand": "Under", "last_price": "R$ 379,99", "current_price": "R$ 249,99"}
+{"name": "Tênis Olympikus Fusão ", "brand": "Olympikus", "last_price": "R$ 259,90", "current_price": "R$ 179,90"}
+{"name": "Tênis New Balance Garoe ", "brand": "New", "last_price": "R$ 599,90", "current_price": "R$ 439,90"}
+{"name": "Tênis adidas Runfalcon 3 Lace ", "brand": "adidas", "last_price": null, "current_price": "R$ 347,73"}
+{"name": "Tênis Fila Racer Wings ", "brand": "Fila", "last_price": "R$ 339,90", "current_price": "R$ 259,90"}
+{"name": "Tênis Olympikus Veloz 2 ", "brand": "Olympikus", "last_price": "R$ 289,90", "current_price": "R$ 209,90"}
+{"name": "Tênis Everlast Climber Pro ", "brand": "Everlast", "last_price": "R$ 499,99", "current_price": "R$ 308,99"}
+{"name": "Tenis Olympikus Easy Slip On ", "brand": "Olympikus", "last_price": "R$ 199,99", "current_price": "R$ 179,99"}
+{"name": "Tênis Under Armour Charged Quicker ", "brand": "Under", "last_price": null, "current_price": "R$ 399,99"}
+{"name": "Tênis Under Armour Tribase Cross Se ", "brand": "Under", "last_price": null, "current_price": "R$ 549,99"}
+{"name": "Tênis Under Armour Tribase Cross ", "brand": "Under", "last_price": "R$ 559,90", "current_price": "R$ 539,90"}
+{"name": "Tênis Adidas Court Silk Feminino", "brand": "Adidas", "last_price": "R$ 359,90", "current_price": "R$ 279,90"}
+{"name": "Tênis Puma Softride Enzo Evo Slip", "brand": "Puma", "last_price": "R$ 449,90", "current_price": "R$ 339,90"}
+{"name": "Tênis adidas Tensaur Run ", "brand": "adidas", "last_price": null, "current_price": "R$ 249,99"}
+{"name": "Tênis adidas Streetcheck ", "brand": "adidas", "last_price": null, "current_price": "R$ 429,90"}
+{"name": "Tênis Everlast Forceknit 4 ", "brand": "Everlast", "last_price": "R$ 299,99", "current_price": "R$ 279,99"}
+{"name": "Tênis adidas Response Runner U ", "brand": "adidas", "last_price": "R$ 409,90", "current_price": "R$ 279,90"}
+{"name": "Tênis Fila Engage ", "brand": "Fila", "last_price": "R$ 309,90", "current_price": "R$ 209,90"}
+{"name": "Tênis Olympikus Êxito ", "brand": "Olympikus", "last_price": "R$ 269,90", "current_price": "R$ 179,90"}
+{"name": "Tênis Under Armour Tribase Reps ", "brand": "Under", "last_price": "R$ 449,99", "current_price": "R$ 399,99"}
+{"name": "Tênis Rainha Slip On Dream Iii ", "brand": "Rainha", "last_price": "R$ 169,90", "current_price": "R$ 129,88"}
+{"name": "Tênis Fila Research ", "brand": "Fila", "last_price": "R$ 309,90", "current_price": "R$ 194,42"}
+{"name": "Tênis Everlast Space ", "brand": "Everlast", "last_price": "R$ 209,99", "current_price": "R$ 169,90"}
+{"name": "Tênis Everlast Cave 2 ", "brand": "Everlast", "last_price": "R$ 429,99", "current_price": "R$ 199,99"}
+{"name": "Kit Tênis Olympikus Reverso 2 + Meia Cano Invisível com 3 Pares", "brand": "Tênis", "last_price": "R$ 794,97", "current_price": "R$ 379,99"}
+{"name": "Tênis Fila Attech ", "brand": "Fila", "last_price": "R$ 389,90", "current_price": "R$ 329,90"}
+{"name": "Tênis Nike In", "brand": "Nike", "last_price": "R$ 699,99", "current_price": "R$ 499,99"}
+{"name": "Tenis Olympikus 129G Ultraleve Feminino", "brand": "Olympikus", "last_price": "R$ 249,90", "current_price": "R$ 208,09"}
+{"name": "Tênis para Cross Rock Fit Grip 2 com Sola Natural ", "brand": "para", "last_price": "R$ 349,90", "current_price": "R$ 229,90"}
+{"name": "Tênis adidas Court Plataform ", "brand": "adidas", "last_price": "R$ 459,90", "current_price": "R$ 349,90"}
+{"name": "Tênis adidas Puremotion Adapt ", "brand": "adidas", "last_price": "R$ 409,90", "current_price": "R$ 359,90"}
+{"name": "Tênis Reebok Nano X3 ", "brand": "Reebok", "last_price": "R$ 1.299,90", "current_price": "R$ 799,90"}
+{"name": "Tênis Olympikus Poseidon ", "brand": "Olympikus", "last_price": "R$ 199,90", "current_price": "R$ 139,90"}
+{"name": "Tênis Everlast Space ", "brand": "Everlast", "last_price": "R$ 219,90", "current_price": "R$ 169,88"}
+{"name": "Tênis Olympikus Glam 3 ", "brand": "Olympikus", "last_price": "R$ 229,99", "current_price": "R$ 129,99"}
+{"name": "Tênis Asics Gel", "brand": "Asics", "last_price": null, "current_price": "R$ 399,90"}
+{"name": "Tênis Everlast Force 2 ", "brand": "Everlast", "last_price": "R$ 269,99", "current_price": "R$ 199,99"}
+{"name": "Tênis Olympikus 146g Ultraleve ", "brand": "Olympikus", "last_price": "R$ 249,90", "current_price": "R$ 208,09"}
+{"name": "Tênis Under Armour Skyline 3 Se ", "brand": "Under", "last_price": "R$ 409,90", "current_price": "R$ 309,90"}
+{"name": "Tênis Rainha Tower Unissex", "brand": "Rainha", "last_price": "R$ 319,90", "current_price": "R$ 239,88"}
+{"name": "Tênis adidas X Plr Path ", "brand": "adidas", "last_price": "R$ 409,90", "current_price": "R$ 359,90"}
+{"name": "Tênis Everlast Monster 3 ", "brand": "Everlast", "last_price": "R$ 379,99", "current_price": "R$ 243,99"}
+{"name": "Tênis Olympikus 129g Ultraleve ", "brand": "Olympikus", "last_price": "R$ 229,00", "current_price": "R$ 179,90"}
+{"name": "Tênis Puma Mercedes AMG Petronas MAPF1 Wired Run ", "brand": "Puma", "last_price": "R$ 559,90", "current_price": "R$ 289,90"}
+{"name": "Tênis Skechers Bountiful ", "brand": "Skechers", "last_price": "R$ 349,90", "current_price": "R$ 249,88"}
+{"name": "Tênis Everlast Range 2 ", "brand": "Everlast", "last_price": "R$ 319,90", "current_price": "R$ 239,90"}
+{"name": "Tênis Everlast Forceknit 4 ", "brand": "Everlast", "last_price": "R$ 299,99", "current_price": "R$ 249,99"}
+{"name": "Tênis Skechers Skech", "brand": "Skechers", "last_price": "R$ 429,90", "current_price": "R$ 239,88"}
+{"name": "Tênis Fila Trend 3.0 Feminino", "brand": "Fila", "last_price": "R$ 309,90", "current_price": "R$ 229,90"}
+{"name": "Tênis Olympikus Flit 3 ", "brand": "Olympikus", "last_price": null, "current_price": "R$ 249,90"}
+{"name": "Tênis Mizuno Wave Hawk 4 ", "brand": "Mizuno", "last_price": null, "current_price": "R$ 263,24"}
+{"name": "Tênis Olympikus Nyx ", "brand": "Olympikus", "last_price": "R$ 249,90", "current_price": "R$ 117,61"}
+{"name": "Tênis Everlast Forceknit 4 ", "brand": "Everlast", "last_price": "R$ 299,99", "current_price": "R$ 279,99"}
+{"name": "Tênis Nike Superrep Go 3 Flyknit Next Nature ", "brand": "Nike", "last_price": "R$ 999,99", "current_price": "R$ 949,99"}
+{"name": "Tênis Skechers Bountiful ", "brand": "Skechers", "last_price": "R$ 349,90", "current_price": "R$ 249,88"}
+{"name": "Tênis Skechers Go Run Fast+ ", "brand": "Skechers", "last_price": "R$ 379,90", "current_price": "R$ 334,60"}
+{"name": "Tênis Fila F Virtuous ", "brand": "Fila", "last_price": "R$ 499,90", "current_price": "R$ 345,90"}
+{"name": "Tênis Puma Wired Run ", "brand": "Puma", "last_price": "R$ 379,90", "current_price": "R$ 289,90"}
+{"name": "Tênis Everlast Forceknit 4 ", "brand": "Everlast", "last_price": "R$ 299,99", "current_price": "R$ 279,99"}
+{"name": "Tênis Under Armour Dagger ", "brand": "Under", "last_price": "R$ 499,99", "current_price": "R$ 399,99"}
+{"name": "Tênis Asics Raiden 3 ", "brand": "Asics", "last_price": null, "current_price": "R$ 329,99"}
+{"name": "Tênis Asics Upcourt 5 ", "brand": "Asics", "last_price": null, "current_price": "R$ 549,99"}
+{"name": "Tênis Fila Pretender ", "brand": "Fila", "last_price": "R$ 359,90", "current_price": "R$ 309,90"}
+{"name": "Tênis para Cross Rock Fit Grip 2 ", "brand": "para", "last_price": "R$ 319,90", "current_price": "R$ 199,90"}
+{"name": "Tênis Olympikus Rua ", "brand": "Olympikus", "last_price": "R$ 187,69", "current_price": "R$ 168,92"}
+{"name": "Tênis New Balance 237 V1 ", "brand": "New", "last_price": "R$ 599,90", "current_price": "R$ 429,90"}
+{"name": "Tênis Everlast Forceknit 4 ", "brand": "Everlast", "last_price": "R$ 299,90", "current_price": "R$ 279,90"}
+{"name": "Tênis Puma Flyer Runner Speckles BDP ", "brand": "Puma", "last_price": "R$ 409,90", "current_price": "R$ 239,90"}
+{"name": "Tênis Under Armour CH.Quicker ", "brand": "Under", "last_price": "R$ 399,99", "current_price": "R$ 276,99"}
+{"name": "Tênis Olympikus Urbex ", "brand": "Olympikus", "last_price": "R$ 209,90", "current_price": "R$ 159,90"}
+{"name": "Tênis Everlast Climber Unissex", "brand": "Everlast", "last_price": "R$ 399,99", "current_price": "R$ 179,99"}
+{"name": "Tênis Olympikus Volcan ", "brand": "Olympikus", "last_price": "R$ 219,99", "current_price": "R$ 146,62"}
+{"name": "Tênis Actvitta Tec Gaspea Bergamo ", "brand": "Actvitta", "last_price": "R$ 299,99", "current_price": "R$ 119,99"}
+{"name": "Tênis Asics Netburner Ballistic Ff Mt 3 ", "brand": "Asics", "last_price": "R$ 999,90", "current_price": "R$ 799,00"}
+{"name": "Tênis Everlast Range 2 ", "brand": "Everlast", "last_price": "R$ 319,90", "current_price": "R$ 239,90"}
+{"name": "Tênis Puma Flyer Runner Speckless BDP ", "brand": "Puma", "last_price": "R$ 409,90", "current_price": "R$ 229,90"}
+{"name": "Tênis Fila Tracer ", "brand": "Fila", "last_price": "R$ 249,90", "current_price": "R$ 189,90"}
+{"name": "Tênis Fila Recovery ", "brand": "Fila", "last_price": "R$ 359,99", "current_price": "R$ 349,99"}
+{"name": "Tênis Everlast Monster 3 Azul e Cinza ", "brand": "Everlast", "last_price": "R$ 379,99", "current_price": "R$ 243,99"}
+{"name": "Tênis Under Armour Essential 2 ", "brand": "Under", "last_price": "R$ 307,99", "current_price": "R$ 210,89"}
+{"name": "Tênis Rainha Drive Iii ", "brand": "Rainha", "last_price": "R$ 209,90", "current_price": "R$ 119,88"}
+{"name": "Tênis Under Armour Charged Wing ", "brand": "Under", "last_price": "R$ 309,90", "current_price": "R$ 279,90"}
+{"name": "Tênis Nike Metcon 8 FlyEase ", "brand": "Nike", "last_price": null, "current_price": "R$ 1.199,99"}
+{"name": "Tênis Under Armour Tribase Cross Quiron ", "brand": "Under", "last_price": "R$ 549,99", "current_price": "R$ 309,99"}
+{"name": "Tênis Skechers Snap Prints ", "brand": "Skechers", "last_price": null, "current_price": "R$ 237,99"}
+{"name": "Tênis adidas Tensaur Run Infantil ", "brand": "adidas", "last_price": null, "current_price": "R$ 299,99"}
+{"name": "Tênis Olympikus Volt ", "brand": "Olympikus", "last_price": "R$ 259,90", "current_price": "R$ 179,90"}
+{"name": "Tênis Olympikus Flutua ", "brand": "Olympikus", "last_price": null, "current_price": "R$ 179,33"}
+{"name": "Tênis Reebok Nano X3 ", "brand": "Reebok", "last_price": "R$ 1.099,90", "current_price": "R$ 849,90"}
+{"name": "Tênis Everlast Cave Hi Felipe Franco ", "brand": "Everlast", "last_price": "R$ 449,99", "current_price": "R$ 299,99"}
+{"name": "Tênis Asics Gel Quantum 360 Direction ", "brand": "Asics", "last_price": "R$ 799,90", "current_price": "R$ 499,00"}
+{"name": "Tênis adidas Puremotion 2.0 ", "brand": "adidas", "last_price": "R$ 509,90", "current_price": "R$ 349,90"}
+{"name": "Tênis Skechers Go Run Fast Glide ", "brand": "Skechers", "last_price": "R$ 349,90", "current_price": "R$ 279,90"}
+{"name": "Tênis Everlast Argo ", "brand": "Everlast", "last_price": "R$ 159,90", "current_price": "R$ 149,90"}
+{"name": "Tênis Under Armour Charged Hit ", "brand": "Under", "last_price": "R$ 449,99", "current_price": "R$ 396,99"}
+{"name": "Tênis Actvitta Floter Rus Neo Camurça ", "brand": "Actvitta", "last_price": "R$ 189,99", "current_price": "R$ 99,99"}
+{"name": "Tênis Olympikus NYX ", "brand": "Olympikus", "last_price": null, "current_price": "R$ 161,49"}
+{"name": "Tênis Fila Acd Classic ", "brand": "Fila", "last_price": "R$ 399,90", "current_price": "R$ 299,90"}
+{"name": "Tênis Everlast Force 2 ", "brand": "Everlast", "last_price": "R$ 289,90", "current_price": "R$ 225,90"}
+{"name": "Tênis Everlast Cave 2 ", "brand": "Everlast", "last_price": "R$ 429,99", "current_price": "R$ 325,99"}
+{"name": "Tênis Rainha Forever ", "brand": "Rainha", "last_price": null, "current_price": "R$ 189,90"}
+{"name": "Tênis Everlast Range 2 ", "brand": "Everlast", "last_price": null, "current_price": "R$ 289,90"}
+{"name": "Tênis Olympikus Apolis ", "brand": "Olympikus", "last_price": "R$ 209,07", "current_price": "R$ 180,06"}
+{"name": "Tênis Under Armour Project Rock 5 ", "brand": "Under", "last_price": "R$ 1.199,99", "current_price": "R$ 499,99"}
+{"name": "Tênis Everlast Forceknit 4 ", "brand": "Everlast", "last_price": "R$ 299,99", "current_price": "R$ 279,99"}
+{"name": "Tênis Olympikus Essential 3 ", "brand": "Olympikus", "last_price": null, "current_price": "R$ 309,90"}
+{"name": "Tênis Everlast Range 2 ", "brand": "Everlast", "last_price": "R$ 299,99", "current_price": "R$ 184,99"}
+{"name": "Tênis adidas Acelera + 3 Pares de Meias ", "brand": "adidas", "last_price": "R$ 549,80", "current_price": "R$ 349,91"}
+{"name": "Tênis Fila Quadra Lugano 7.0 ", "brand": "Fila", "last_price": "R$ 429,90", "current_price": "R$ 369,88"}
+{"name": "Tênis Under Armour Charged Skyline 2 ", "brand": "Under", "last_price": "R$ 359,90", "current_price": "R$ 239,90"}
+{"name": "Tênis adidas Lite Racer 3.0 ", "brand": "adidas", "last_price": "R$ 379,90", "current_price": "R$ 299,88"}
+{"name": "Tênis adidas Trainer V ", "brand": "adidas", "last_price": "R$ 539,91", "current_price": "R$ 404,91"}
+{"name": "Tênis Fila Lugano 7.0 ", "brand": "Fila", "last_price": "R$ 399,90", "current_price": "R$ 349,90"}
+{"name": "Tênis Fila Euro Jogger Sport ", "brand": "Fila", "last_price": "R$ 369,90", "current_price": "R$ 289,90"}
+{"name": "Tênis Under Armour Tribase Cross ", "brand": "Under", "last_price": "R$ 509,90", "current_price": "R$ 359,90"}
