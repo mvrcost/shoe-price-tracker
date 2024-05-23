@@ -23,8 +23,11 @@ df['last_price'] = clean_price(df['last_price'])
 # Adicionar colunas adicionais
 df['-source'] = 'https://www.centauro.com.br/nav/produto/tenis/esportes/academiafitness'
 df['_data_coleta'] = datetime.now()
-
-
+# Substitindo nome marcas 
+df.loc[df['brand'] == 'New', 'brand'] = 'New Balance'
+df.loc[df['brand'] == 'adidas', 'brand'] = 'Adidas'
+df.loc[df['brand'] == 'Nikecourt', 'brand'] = 'Nike'
+df.loc[df['brand'] == 'ASICS', 'brand'] = 'Asics'
 # Conectar ao banco de dados SQLite (ou criar um novo)
 conn = sqlite3.connect('../data/quotes.db')
 
@@ -34,4 +37,3 @@ df.to_sql('centauro_items', conn, if_exists='replace', index=False)
 # Fechar a conexão com o banco de dados
 conn.close()
 
-print(df.head())
