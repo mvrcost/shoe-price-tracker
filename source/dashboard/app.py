@@ -2,6 +2,8 @@ import streamlit as st
 import pandas as pd
 import sqlite3
 
+
+
 # Conectar ao banco de dados SQLite
 conn = sqlite3.connect('../data/quotes.db')
 
